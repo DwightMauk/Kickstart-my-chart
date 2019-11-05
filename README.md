@@ -19,6 +19,8 @@ Created a stacked column pivot chart that can be filtered by country based on th
 
 Created a new sheet with a pivot table that analyzed initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
 
+![second](kick2.PNG)
+
 Created a stacked column pivot chart that can be filtered by country and parent-category based on the table.
 
 Created a new column named Date Created Conversion that used formula to convert the data contained within launched_at into Excel's date format.
