@@ -30,3 +30,5 @@ Created a new column named Date Ended Conversion that used formula to convert th
 Created a new sheet with a pivot table with a column of state, rows of Date Created Conversion, values based on the count of state, and filters based on parent category and Years.
 
 Created a pivot chart line graph that visualizes this new table.
+
+![third](kick3.PNG)
