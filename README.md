@@ -7,6 +7,8 @@ Created a new column called Percent Funded that used a formula to uncover how mu
 
 Used conditional formatting to fill each cell in the Percent Funded column using a three-color scale. The scale started at 0 and is a dark shade of red, transitioning to green at 100, and blue at 200.
 
+![first](kick1.PNG)
+
 Created a new column called Average Donation that uses a formula to uncover how much each backer for the project paid on average.
 
 Created two new columns, one called Category and another called Sub-Category, which used formulas to split the Category and Sub-Category column into two parts.
